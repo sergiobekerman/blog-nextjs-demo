@@ -1,0 +1,19 @@
+{
+    "projects": [
+    {
+        "name": "Avanzar",
+        "longName": "Fundacion Avanzar",
+        "details": "Fundacion de micro-credito"
+    },
+    {
+        "name": "Tzedaka",
+        "longName": "Fundacion Tzedaka",
+        "details": "Fundacion de ayuda comunitaria"
+    },
+    {
+        "name": "Ceibo",
+        "longName": "Recuperadores urbanos",
+        "details": "Reciclado y puesta en valor de espacio urbano"
+    }      
+    ]
+}
